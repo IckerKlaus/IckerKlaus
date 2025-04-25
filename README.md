@@ -24,8 +24,8 @@
     <img src="https://skillicons.dev/icons?i=py,cpp,js&perline=12" />
   </a>
 </p>
-<br>
 
+<br>
 <h3 align="center">Technologies I’ve worked with 👨🏻‍💻</h3>
 <!--tech stack icons-->
 <p align="center">
