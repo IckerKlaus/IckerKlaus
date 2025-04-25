@@ -8,16 +8,14 @@
 <h2 align="center">About Me 😉</h2>
 <!--Intro start-->
 
-<p align="center">
-  🎓 B.S. in Computer Science and Technology
-  
-  💻 Passionate about the software development process, always exploring new tools, technologies, and creative ways to bring ideas to life.
-  
-  📝 I’ve taken on roles like student developer, team collaborator, project initiator, and who knows what the future holds 🙂‍↔️
-  
-  📫 Contact: **icker.villalon@gmail.com**
-<!--Intro end-->
-  </p>
+<div align="center">
+  🎓 B.S. in Computer Science and Technology <br><br>
+  💻 Passionate about the software development process, always exploring new tools, technologies, and creative ways to bring ideas to life. <br><br>
+  📝 I’ve taken on roles like student developer, team collaborator, project initiator, and who knows what the future holds 🙂‍↔️ <br><br>
+  📫 Contact: <strong>icker.villalon@gmail.com</strong>
+  <!--Intro end-->
+</div>
+
 <br>
 <h2 align="center">Programming languages I’m familiar with ⌨️</h2>
 <!--tech stack icons-->
