@@ -30,7 +30,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,css,git,github,html,matlab&perline=12" />
+    <img src="https://skillicons.dev/icons?i=github,git,html,css,arduino,matlab&perline=12" />
   </a>
 </p>
 <br>
