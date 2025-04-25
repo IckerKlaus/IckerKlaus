@@ -17,7 +17,7 @@
 </div>
 
 <br>
-<h2 align="center">Programming languages I’m familiar with ⌨️</h2>
+<h3 align="center">Programming languages I’m familiar with ⌨️</h3>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,7 +26,7 @@
 </p>
 
 <br>
-<h3 align="center">Technologies I’ve worked with 👨🏻‍💻</h3>
+<h4 align="center">Technologies I’ve worked with 👨🏻‍💻</h4>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
