@@ -7,7 +7,6 @@
 <br>
 <h2 align="center">About Me 😉</h2>
 <!--Intro start-->
-
 <div align="center">
   🎓 B.S. in Computer Science and Technology <br><br>
   💻 Passionate about the software development process, always exploring new tools, technologies, and creative ways to bring ideas to life. <br><br>
@@ -15,7 +14,6 @@
   📫 Contact: <strong>icker.villalon@gmail.com</strong> | <strong>https://www.linkedin.com/in/ickervillalon/</strong>
   <!--Intro end-->
 </div>
-
 <br>
 <h3 align="center">Programming languages I’m familiar with ⌨️</h3>
 <!--tech stack icons-->
@@ -24,7 +22,6 @@
     <img src="https://skillicons.dev/icons?i=py,cpp,js&perline=12" />
   </a>
 </p>
-
 <br>
 <h4 align="center">Technologies I’ve worked with 👨🏻‍💻</h4>
 <!--tech stack icons-->
@@ -33,4 +30,3 @@
     <img src="https://skillicons.dev/icons?i=github,git,html,css,arduino,matlab&perline=12" />
   </a>
 </p>
-<br>
