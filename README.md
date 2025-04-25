@@ -1,28 +1,26 @@
 <h1 align="center">Hello 👋  I'm Icker Villalón / IckerKlaus ✨ </h1> 
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/ickervillalon/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="IckerKlaus"/></a>
 <a href = "mailto:icker.villalon@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@IckerKlaus"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>About Me 😃</h2>
 <!--Intro start-->
 
 <p align="left">
 🎓 B.S. in Computer Science and Technology
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+💻 Passionate about the software development process, always exploring new tools, technologies, and creative ways to bring ideas to life.
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+📝 I’ve taken on roles like student developer, team collaborator, project initiator, and who knows what the future holds ☺️
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **icker.villalon@gmail.com**
+📫 Contact: **icker.villalon@gmail.com**
 <!--Intro end-->
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Technologies I’ve worked with👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
