@@ -17,7 +17,7 @@
 <div align="center">
   🎓 B.S. in Computer Science and Technology <br><br>
   💻 Passionate about the software development process, always exploring new tools, technologies, and creative ways to bring ideas to life. <br><br>
-  📝 I’ve taken on roles like student developer, team collaborator, project initiator, and who knows what the future holds 🙂‍↔️ <br><br>
+  📝 I’ve taken on roles like student developer, team collaborator, project initiator, and who knows what the future holds 👏 <br><br>
   📫 Contact: <strong>icker.villalon@gmail.com</strong> | <strong>https://www.linkedin.com/in/ickervillalon/</strong>
 </div>
 <!--Intro end-->
