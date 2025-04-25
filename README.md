@@ -5,7 +5,7 @@
 <a href = "mailto:icker.villalon@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@IckerKlaus"  /></a>
   </p>
 <br>
-<h2>About Me 😃</h2>
+<h2>About Me 😉</h2>
 <!--Intro start-->
 
 <p align="left">
@@ -13,18 +13,26 @@
 
 💻 Passionate about the software development process, always exploring new tools, technologies, and creative ways to bring ideas to life.
 
-📝 I’ve taken on roles like student developer, team collaborator, project initiator, and who knows what the future holds ☺️
+📝 I’ve taken on roles like student developer, team collaborator, project initiator, and who knows what the future holds 🙂‍↔️
 
 📫 Contact: **icker.villalon@gmail.com**
 <!--Intro end-->
   </p>
 <br>
-
-<h2 >Technologies I’ve worked with👨🏻‍💻</h2>
+<h2>Programming languages I’m familiar with ⌨️</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js&perline=12" />
+  </a>
+</p>
+<br>
+
+<h3>Technologies I’ve worked with 👨🏻‍💻</h3>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,css,git,github,html,matlab&perline=12" />
   </a>
 </p>
 <br>
