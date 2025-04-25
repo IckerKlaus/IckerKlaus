@@ -8,7 +8,7 @@
 <h2 align="center">About Me 😉</h2>
 <!--Intro start-->
 
-<p align="left">
+<p align="center">
 🎓 B.S. in Computer Science and Technology
 
 💻 Passionate about the software development process, always exploring new tools, technologies, and creative ways to bring ideas to life.
@@ -19,18 +19,18 @@
 <!--Intro end-->
   </p>
 <br>
-<h2>Programming languages I’m familiar with ⌨️</h2>
+<h2 align="center">Programming languages I’m familiar with ⌨️</h2>
 <!--tech stack icons-->
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,js&perline=12" />
   </a>
 </p>
 <br>
 
-<h3>Technologies I’ve worked with 👨🏻‍💻</h3>
+<h3 align="center">Technologies I’ve worked with 👨🏻‍💻</h3>
 <!--tech stack icons-->
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,css,git,github,html,matlab&perline=12" />
   </a>
