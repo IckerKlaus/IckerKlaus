@@ -29,7 +29,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,ts,js&perline=12" />
   </a>
 </p>
 
@@ -40,6 +40,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,html,css,arduino,matlab&perline=12" />
+    <img src="https://skillicons.dev/icons?i=github,git,react,express,nodejs,npm,arduino,matlab,html,css&perline=12" />
   </a>
 </p>
