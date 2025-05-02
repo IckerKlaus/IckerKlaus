@@ -40,6 +40,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,react,express,tailwind,nodejs,npm,arduino,matlab,html,css&perline=12" />
+    <img src="https://skillicons.dev/icons?i=github,git,react,tailwind,express,mongodb,nodejs,npm,arduino,matlab,html,css&perline=12" />
   </a>
 </p>
